@@ -1,0 +1,14 @@
+C:\code\simple-quiz-oop\obj\Debug\net9.0\simple-quiz-oop.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\simple-quiz-oop\obj\Debug\net9.0\simple-quiz-oop.AssemblyInfoInputs.cache
+C:\code\simple-quiz-oop\obj\Debug\net9.0\simple-quiz-oop.AssemblyInfo.cs
+C:\code\simple-quiz-oop\obj\Debug\net9.0\simple-quiz-oop.csproj.CoreCompileInputs.cache
+C:\code\simple-quiz-oop\bin\Debug\net9.0\simple-quiz-oop.exe
+C:\code\simple-quiz-oop\bin\Debug\net9.0\simple-quiz-oop.deps.json
+C:\code\simple-quiz-oop\bin\Debug\net9.0\simple-quiz-oop.runtimeconfig.json
+C:\code\simple-quiz-oop\bin\Debug\net9.0\simple-quiz-oop.dll
+C:\code\simple-quiz-oop\bin\Debug\net9.0\simple-quiz-oop.pdb
+C:\code\simple-quiz-oop\obj\Debug\net9.0\simple-quiz-oop.dll
+C:\code\simple-quiz-oop\obj\Debug\net9.0\refint\simple-quiz-oop.dll
+C:\code\simple-quiz-oop\obj\Debug\net9.0\simple-quiz-oop.pdb
+C:\code\simple-quiz-oop\obj\Debug\net9.0\simple-quiz-oop.genruntimeconfig.cache
+C:\code\simple-quiz-oop\obj\Debug\net9.0\ref\simple-quiz-oop.dll
